@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: CASoulog - 卡索网志
-subtitle:边学边记边用
+title: Hexo
+subtitle:
 description:
 keywords:
-author: CASoul
-language:Chinese
+author: John Doe
+language:
 timezone:
 
 # URL
